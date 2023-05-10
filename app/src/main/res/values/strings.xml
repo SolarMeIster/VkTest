@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkTest</string>
+    <string name="error">Error</string>
+    <string name="emptyFolder">Пустая папка</string>
+    <string name="sortByExtension">По расширению</string>
+    <string name="sortBySize">По размеру</string>
+    <string name="sortByDate">По дате</string>
+    <string name="directorySize">%1$d файлов</string>
+    <string name="fileSize">%1$s %2$s</string>
+</resources>
